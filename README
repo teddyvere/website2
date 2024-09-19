@@ -1,0 +1,5 @@
+start server
+n .\manage.py runserver
+
+enter venv
+venv/Scripts/activate
