@@ -1,5 +1,12 @@
+# Run Server
+
+cd into musicapp
 start server
 n .\manage.py runserver
+
+cd into frontend
+npm run dev 
+
 
 enter venv
 venv/Scripts/activate
